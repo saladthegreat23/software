@@ -1,0 +1,43 @@
+name>load000
+message = "!" = 25
+print(message)
+TEST_def count_words(word_list):
+    counts = {}
+    for word in word_list:
+        counts[word] = counts.get(word, 0) + 1
+    return counts
+
+items = ["apple", "orange", "apple", "banana", "orange", "apple"]
+print(count_words(items))
+# Output: {'apple': 3, 'orange': 2, 'banana': 1}
+000=convertfile6_ev5
+:
+    with open("sample.txt", "r") as file:
+        content = file.read()
+        print(content)
+t FileNotFoundError:
+    print("Error: The requested text file does not exist.")
+_gh7\bb!-55% 
+
+REPEAT
+name>load000
+message = "!" = 25
+print(message)
+TEST_def count_words(word_list):
+    counts = {}
+    for word in word_list:
+        counts[word] = counts.get(word, 0) + 1
+    return counts
+
+items = ["apple", "orange", "apple", "banana", "orange", "apple"]
+print(count_words(items))
+# Output: {'apple': 3, 'orange': 2, 'banana': 1}
+000=convertfile6_ev5
+:
+    with open("sample.txt", "r") as file:
+        content = file.read()
+        print(content)
+t FileNotFoundError:
+    print("Error: The requested text file does not exist.")
+_gh7\bb!-55% 
+
